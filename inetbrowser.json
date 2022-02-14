@@ -1,0 +1,12 @@
+{
+    "name": "Internet Browser",
+    "id": "inetbrowser",
+    "version": "1.0",
+    "abbreviation": "net",
+    "appType": "webApp",
+    "homeURL": "https://bing.com/",
+    "icon": {
+        "foreground": "http://www.designtagebuch.de/wp-content/uploads/mediathek/2013/09/bing-b.jpg"
+    },
+    "windowSize": [700, 400]
+}
