@@ -10,7 +10,7 @@
             "packageAliases": [],
             "version": "1.0",
             "packageType": "webApp",
-            "installURL": "https://github.com/VednaGames/aOS-VG-store/blob/main/inetbrowser.json",
+            "installURL": "https://raw.githubusercontent.com/VednaGames/aOS-VG-store/main/inetbrowser.json",
             "icon": {
                 "foreground": "http://www.designtagebuch.de/wp-content/uploads/mediathek/2013/09/bing-b.jpg",
                 "backgroundColor": "#FFF"
