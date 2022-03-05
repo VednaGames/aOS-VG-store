@@ -1,0 +1,21 @@
+{
+    "repoName": "VG Store",
+    "repoID": "vg_store",
+    "repoAliases": ["vg", "vgstore", "aos"],
+    "repoVersion": "1.0",
+    "packages": {
+        "internetbrowser": {
+            "packageName": "Internet Browser",
+            "packageID": "inetbrowser",
+            "packageAliases": [],
+            "version": "1.0",
+            "packageType": "webApp",
+            "installURL": "https://github.com/VednaGames/aOS-VG-store/blob/main/inetbrowser.json",
+            "icon": {
+                "foreground": "http://www.designtagebuch.de/wp-content/uploads/mediathek/2013/09/bing-b.jpg",
+                "backgroundColor": "#FFF"
+            },
+            "description": "It's an internet browser."
+        }
+    }
+}
